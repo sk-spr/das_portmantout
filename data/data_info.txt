@@ -1,0 +1,7 @@
+DATA - format and naming
+
+For now, the program relies on a specific format for cleaning, and has 
+hardcoded names. This might change in the future.
+
+Name: raw.txt for raw data file
+Format(each line): "<entry number> <word> <frequency>"
