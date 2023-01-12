@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text.RegularExpressions;
 
-Console.WriteLine("Welcome to PortManTout cleaner.\nCopyright Skye Sprung 2023");
+Console.WriteLine("Welcome to PortManTout cleaner.\n Skye Sprung 2023");
 
 using var reader = new StreamReader(File.OpenRead("../data/raw.txt"));
 List<string> lines = new();

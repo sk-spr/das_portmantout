@@ -5,6 +5,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cleaner", "cleaner", "{E937
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cleaner", "cleaner\cleaner.csproj", "{2615A7AD-FC5B-4E79-8721-DBC381A8F6FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "portmantout", "portmantout\portmantout.csproj", "{CD6D6868-1324-43C8-8F27-A09F3BC64CAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2615A7AD-FC5B-4E79-8721-DBC381A8F6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2615A7AD-FC5B-4E79-8721-DBC381A8F6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2615A7AD-FC5B-4E79-8721-DBC381A8F6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6D6868-1324-43C8-8F27-A09F3BC64CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6D6868-1324-43C8-8F27-A09F3BC64CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6D6868-1324-43C8-8F27-A09F3BC64CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6D6868-1324-43C8-8F27-A09F3BC64CAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
