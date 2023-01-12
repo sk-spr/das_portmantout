@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # 
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cleaner", "cleaner", "{E9376D1F-182D-4061-B1AB-4EE0E9AB4FCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cleaner", "cleaner\cleaner\cleaner.csproj", "{1E5B5C6D-803A-4B8E-91D9-144F2A206EFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cleaner", "cleaner\cleaner.csproj", "{2615A7AD-FC5B-4E79-8721-DBC381A8F6FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,11 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1E5B5C6D-803A-4B8E-91D9-144F2A206EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E5B5C6D-803A-4B8E-91D9-144F2A206EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E5B5C6D-803A-4B8E-91D9-144F2A206EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E5B5C6D-803A-4B8E-91D9-144F2A206EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2615A7AD-FC5B-4E79-8721-DBC381A8F6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2615A7AD-FC5B-4E79-8721-DBC381A8F6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2615A7AD-FC5B-4E79-8721-DBC381A8F6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2615A7AD-FC5B-4E79-8721-DBC381A8F6FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{1E5B5C6D-803A-4B8E-91D9-144F2A206EFC} = {E9376D1F-182D-4061-B1AB-4EE0E9AB4FCA}
 	EndGlobalSection
 EndGlobal
